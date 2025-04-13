@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+opencv-python
+mediapipe
+pyautogui
+deepface
+pygame
+av
