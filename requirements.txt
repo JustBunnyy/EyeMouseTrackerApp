@@ -1,7 +1,7 @@
-streamlit
-streamlit-webrtc
+gradio
 opencv-python
 mediapipe
+numpy
 pyautogui
 deepface
 pygame
